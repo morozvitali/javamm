@@ -10,6 +10,8 @@
     <artifactId>interpreter</artifactId>
     <name>interpreter</name>
 
+    <description> Default interpreter for javamm programming language</description>
+
     <dependencies>
         <dependency>
             <groupId>academy.devonline</groupId>

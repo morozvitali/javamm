@@ -10,6 +10,8 @@
     <artifactId>compiler</artifactId>
     <name>compiler</name>
 
+    <description>Default compiler for javamm programming language</description>
+
         <dependencies>
             <dependency>
                 <groupId>academy.devonline</groupId>

@@ -10,6 +10,10 @@
 
 
     <artifactId>release</artifactId>
+    <name>Release aggregator</name>
+
+    <description>Release aggregator for javamm project</description>
+
     <packaging>pom</packaging>
 
     <dependencies>

@@ -12,6 +12,8 @@
 
     <name>cmd</name>
 
+    <description>Console tool for javamm programming language</description>
+
     <dependencies>
         <dependency>
             <groupId>academy.devonline</groupId>
