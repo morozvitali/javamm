@@ -1,0 +1,2 @@
+module javamm.code {
+}
