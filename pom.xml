@@ -13,6 +13,7 @@
 
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+
   <modules>
     <module>cmd</module>
     <module>code</module>
@@ -141,5 +142,13 @@
     </plugin>
   </plugins>
 </build>
+
+  <distributionManagement>
+    <site>
+      <id>devonline.academy</id>
+      <url>scp://devonline.academy/javamm/maven-docs</url>
+    </site>
+  </distributionManagement>
+
 
 </project>
